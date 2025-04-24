@@ -63,7 +63,7 @@ Cliente → cria Pedido
                 → aplica RegraDesconto
                 → salva com RepositorioPedido
                 → envia notificação com Notificador
----
+```
 
 ### Exercício:
 
